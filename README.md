@@ -2,7 +2,10 @@ Hi, I’m Jared Winslow (@jaredwins99)
 
 I'm a master's student studying statistics at Columbia University. My background is in mathematics, and I have four years of experience tutoring math and other quantitative subjects, from high school material to fourth-year math seminars. Right now, I'm polishing my quantitative problem solving skills and broadening my statistical and programming expertise.
 
-Recently, I worked with an environmental agency and developed a Gaussian Process (GP) regression model with co-regionalization to predict lead contamination in soil from X-ray fluorescence. The key difficulty in managing geospatial data is its inherent spatial autocorrelation. GPs solve this by implicitly positing a smooth prior over the space, enabling enhanced prediction.
+Selected projects I've worked on:
+- Probabilistic machine learning: Developed a co-regionalized Gaussian Process (GP) regression model to predict lead contamination in soil from X-ray fluorescence, helping an environmental firm remediate a real-world lead hazard. The difficulty in managing geospatial data is in its significant spatial autocorrelation. GPs solve this by implicitly positing a smooth prior over the space, enabling enhanced prediction and uncertainty quantification.
+- Interpretable deep learning research: Evaluated layerwise-relevance-propagation as a method for attributing feature importance in neural networks, using complex simulated data with network structures. LRP backtracks feature importance using customized layer-dependent heuristics, but it has difficulty correctly attributing importance when features are interrelated in nontrivial ways.
+
 
 📫 How to reach me: jaredwins99@gmail.com
 
