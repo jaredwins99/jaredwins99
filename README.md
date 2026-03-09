@@ -1,6 +1,6 @@
 Hi, I’m Jared Winslow (@jaredwins99)
 
-I'm a data scientist within Stanford's Quantiative Sciences Unit. My master's was at Columbia, and my general background is in mathematics (five years of tutoring experience, including graduate seminars and high school material).
+I'm a data scientist within Stanford's Quantiative Sciences Unit. My master's was at Columbia, and my general background is in mathematics (five years of tutoring experience, including graduate seminars).
 
 Selected projects I've worked on:
 - ML-ZINB-INGARCHX: Designed and optimized a fully custom Stan model for forecasting sales and estimating the effect of introducing alternative proteins in restaurants, incorporating partial pooling across restaurants, hierarchical ITS within and across restaurants, zero inflation, overdispersion, count emission modeling, autocorrelation, exogenous shocks, regularization, and more. 
