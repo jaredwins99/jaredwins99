@@ -20,7 +20,7 @@ Selected projects I've worked on:
 
 - *Interpretable deep learning research*: Evaluated layerwise-relevance-propagation as a method for attributing feature importance in neural networks, specifically using complex simulated data with network structures. LRP backtracks feature importance using customized layer-dependent heuristics, but it has difficulty correctly attributing importance when features are interrelated in nontrivial ways.
 
-  **RESULT**: USELESS. Probably skip LRP.
+  **RESULT**: USELESS. Probably skip LRP unless improved.
 
 
 - *Probabilistic machine learning for lead hazards*: Developed a co-regionalized Gaussian Process (GP) regression model to predict lead contamination in soil from X-ray fluorescence, helping an environmental firm remediate a real-world lead hazard. The difficulty in managing geospatial data is in its significant spatial autocorrelation. GPs solve this by implicitly positing a smooth prior over the space, enabling enhanced prediction and uncertainty quantification.
