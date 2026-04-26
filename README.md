@@ -3,7 +3,7 @@ Hi, I’m Jared Winslow (@jaredwins99)
 I'm a data scientist at HSFL within Stanford's Quantiative Sciences Unit. Before that, I studied stats at Columbia and math at IU (which included five years of tutoring anything and everything quantitative, from intro courses to graduate seminars).
 
 Selected projects I've worked on:
-- ML-ZINB-INGARCHX: Designed and optimized a fully custom Stan model for forecasting sales and estimating the effect of introducing alternative proteins in restaurants, incorporating partial pooling across restaurants, hierarchical ITS within and across restaurants, zero inflation, overdispersion, count emission modeling, autocorrelation, exogenous shocks, regularization, and more. Individual models were run on HPC clusters (do not try at home).
+- ML-ZINB-INGARCHX: Designed and optimized a fully custom Stan model for forecasting sales and estimating the effect of introducing alternative proteins in restaurants, incorporating partial pooling across restaurants, hierarchical ITS within and across restaurants, zero inflation, overdispersion, count emission modeling, autocorrelation, exogenous shocks, regularization, and more. Individual models were run on HPC clusters for seven days (do not try at home).
 
 RESULT: USEFUL. Great as a model, but for the alt proteins displacing demand, not so much...
 
