@@ -23,7 +23,7 @@ Selected projects I've worked on:
   **RESULT**: USELESS. Probably skip LRP.
 
 
-- *Probabilistic machine learning for lead hazard*: Developed a co-regionalized Gaussian Process (GP) regression model to predict lead contamination in soil from X-ray fluorescence, helping an environmental firm remediate a real-world lead hazard. The difficulty in managing geospatial data is in its significant spatial autocorrelation. GPs solve this by implicitly positing a smooth prior over the space, enabling enhanced prediction and uncertainty quantification.
+- *Probabilistic machine learning for lead hazards*: Developed a co-regionalized Gaussian Process (GP) regression model to predict lead contamination in soil from X-ray fluorescence, helping an environmental firm remediate a real-world lead hazard. The difficulty in managing geospatial data is in its significant spatial autocorrelation. GPs solve this by implicitly positing a smooth prior over the space, enabling enhanced prediction and uncertainty quantification.
 
   **RESULT**: USEFUL.
 
