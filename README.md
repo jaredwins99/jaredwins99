@@ -5,7 +5,7 @@ I'm a data scientist at HSFL within Stanford's Quantiative Sciences Unit. Before
 Selected projects I've worked on:
 - ML-ZINB-INGARCHX: Designed and optimized a fully custom Stan model for forecasting sales and estimating the effect of introducing alternative proteins in restaurants, incorporating partial pooling across restaurants, hierarchical ITS within and across restaurants, zero inflation, overdispersion, count emission modeling, autocorrelation, exogenous shocks, regularization, and more. Individual models were run on HPC clusters for seven days (do not try at home).
 
-RESULT: USEFUL. Great as a model, but for the alt proteins displacing demand, not so much...
+  -RESULT: USEFUL. Great as a model, but for the alt proteins displacing demand, not so much...
 
 
 - RAG for Stan modeling: Aggregated all statistical case studies done with the Stan programming language, including harder to find dev features. Designed a test to evaluate Claude's performance with forced (by hook) pre-referencing of gold-standard Stan practices and forced validation practices, on simulated modeling tasks as well as recent empirical ones. Simulated tasks require the composition of known features since Claude already excels at user-guide-level tasks.
