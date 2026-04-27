@@ -30,7 +30,7 @@ Selected projects I've worked on:
 
 - [*Pokemon card identification*](https://github.com/jaredwins99/cardprice): Developed a system for identifying Pokemon cards comparable with state-of-the-art methods, including concurrent multi-card identification, variant detection (e.g., 1st edition), multiple language support, and individual-sales condition-level pricing.
 
-  **RESULT**: USEFUL.
+  **RESULT**: WORKS.
 
 
 
