@@ -8,11 +8,6 @@ Selected projects I've worked on (personal projects pinned below):
   **RESULT**: USEFUL. Great as a model, but for alt proteins displacing demand, not so much...
 
 
-- [*RAG for Stan modeling*](https://github.com/jaredwins99/llm-reproducibility-hooks): Aggregated all accessible statistical case studies done with the Stan programming language, including harder-to-find dev features. Designed a test to evaluate Claude's performance on composite simulated modeling tasks as well as recent empirical ones by using hooks to pre-reference gold-standard Stan practices and force validation practices.
-
-  **RESULT**: ONGOING.
-
-
 - [*MARL for leader-follower dynamics*](https://github.com/jaredwins99/marl-leader-follower): Designed and implemented a custom system and environment for two reinforcement learning agents to cooperate on a foraging task. The idea was to assess whether, dependent on environmental features, the agents would specialize into different roles.
 
   **RESULT**: SO-SO. Do the agents cooperate? Yes. Do they adopt leader-follower dynamics? Somewhat. To the extent that mice do? Not at all.
@@ -27,6 +22,10 @@ Selected projects I've worked on (personal projects pinned below):
 
   **RESULT**: USEFUL.
 
+
+- [*RAG for Stan modeling*](https://github.com/jaredwins99/llm-reproducibility-hooks): Aggregated all accessible statistical case studies done with the Stan programming language, including harder-to-find dev features. Designed a test to evaluate Claude's performance on composite simulated modeling tasks as well as recent empirical ones by using hooks to pre-reference gold-standard Stan practices and force validation practices.
+
+  **RESULT**: ONGOING.
 
 
 📫 How to reach me: jaredwins99@gmail.com
