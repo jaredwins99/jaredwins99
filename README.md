@@ -23,7 +23,7 @@ Selected projects I've worked on (more, including personal projects, pinned belo
   **RESULT**: USEFUL.
 
 
-- [*RAG for Stan modeling*](https://github.com/jaredwins99/llm-reproducibility-hooks): Aggregated all accessible statistical case studies done with the Stan programming language, including harder-to-find dev features. Designed a test to evaluate Claude's performance on composite simulated modeling tasks as well as recent empirical ones by using hooks to pre-reference gold-standard Stan practices and force validation practices.
+- [*Agent retrieval for Stan modeling*](https://github.com/jaredwins99/llm-reproducibility-hooks): Aggregated all accessible statistical case studies done with the Stan programming language, including harder-to-find dev features. Designed a test to evaluate Claude's performance on composite simulated modeling tasks as well as recent empirical ones by using hooks to pre-reference gold-standard Stan practices and force validation practices.
 
   **RESULT**: ONGOING.
 
