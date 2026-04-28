@@ -13,7 +13,7 @@ Selected projects I've worked on (more, including personal projects, pinned belo
   **RESULT**: SO-SO. Do the agents cooperate? Yes. Do they adopt leader-follower dynamics? Somewhat. To the extent that mice do? Not at all.
 
 
-- [*Interpretable deep learning research*](https://github.com/jaredwins99/lrp-feature-attribution): Evaluated layerwise-relevance-propagation as a method for attributing feature importance in neural networks, specifically using simulated data with features correlated in network patterns. LRP backtracks feature importance using customized layer-dependent heuristics, but it has difficulty correctly attributing importance when features are interrelated in nontrivial ways.
+- [*Interpretable deep learning research*](https://github.com/jaredwins99/lrp-feature-attribution): Evaluated layerwise-relevance-propagation's ability to attribute feature importance in neural networks, specifically using simulated data with features correlated in network patterns. LRP backtracks feature importance using customized layer-dependent heuristics, but it has difficulty correctly attributing importance when features are interrelated in nontrivial ways.
 
   **RESULT**: USELESS. Probably skip LRP unless improved.
 
