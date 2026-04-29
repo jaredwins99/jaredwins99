@@ -8,12 +8,12 @@ Selected projects I've worked on (more, including personal projects, pinned belo
   **RESULT**: USEFUL. Great as a model, but for alt proteins displacing demand, not so much...
 
 
-- [*MARL for leader-follower dynamics*](https://github.com/jaredwins99/marl-leader-follower): Custom-built environment for reinforcement learning agents to cooperate on a foraging task. The idea was to assess whether, dependent on environmental features, the agents would specialize into different roles.
+- [*MARL for leader-follower dynamics*](https://github.com/jaredwins99/marl-leader-follower): Custom-built environment and reinforcement learning agents cooperating on a foraging task. The idea was to assess whether, dependent on environmental features, the agents would specialize into different roles.
 
   **RESULT**: SO-SO. Do the agents cooperate? Yes. Do they adopt leader-follower dynamics? Somewhat. To the extent that mice do? Not at all.
 
 
-- [*Interpretable deep learning research*](https://github.com/jaredwins99/lrp-feature-attribution): Analysis of layerwise-relevance-propagation, a feature attribution method, on neural networks, but specifically using simulated data with features correlated in network patterns. LRP backtracks feature importance using customized layer-dependent heuristics, but it has difficulty correctly attributing importance when features are interrelated in nontrivial ways.
+- [*Interpretable deep learning research*](https://github.com/jaredwins99/lrp-feature-attribution): Analysis of layerwise-relevance-propagation on neural networks, but specifically applied to simulated data with features correlated in network patterns. LRP backtracks feature importance using customized layer-dependent heuristics, but it has difficulty correctly attributing importance when features are interrelated in nontrivial ways.
 
   **RESULT**: USELESS. Probably skip LRP unless improved.
 
