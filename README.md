@@ -8,7 +8,7 @@ Selected projects I've worked on (more, including personal projects, pinned belo
   **RESULT**: USEFUL. Great as a model, but for alt proteins displacing demand, not so much...
 
 
-- [*MARL for leader-follower dynamics*](https://github.com/jaredwins99/marl-leader-follower): Custom-built environment and reinforcement learning agents cooperating on a foraging task. The idea was to assess whether, dependent on environmental features, the agents would specialize into different roles.
+- [*MARL for leader-follower dynamics*](https://github.com/jaredwins99/marl-leader-follower): Custom-built environment and reinforcement learning agents cooperating on a foraging task. The idea was to assess whether, dependent on environmental and neuro-inspired features, the agents would specialize into different roles.
 
   **RESULT**: SO-SO. Do the agents cooperate? Yes. Do they adopt leader-follower dynamics? Somewhat. To the extent that mice do? Not at all.
 
