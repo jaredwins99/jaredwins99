@@ -5,7 +5,7 @@ I'm a data scientist within Stanford's Quantitative Sciences Unit. Before that, 
 Selected projects I've worked on (more, including personal projects, pinned below):
 - [*Multilevel INGARCH for alt proteins*](https://github.com/jaredwins99/alt-protein-sales-effects): Fully modular Stan model for forecasting sales and estimating the effect of introducing alternative proteins in restaurants. Individual models were run on HPC clusters for seven days (do not try at home). *(Specs: partial pooling across restaurants, hierarchical ITS within & across restaurants, zero inflation, count-valued, overdispersion, autoregression, regularization, and more.)*
 
-  **RESULT**: USEFUL. Great as a model, but for alt proteins displacing demand, not so much...
+  **RESULT**: USEFUL. Great as a model, but regarding alt proteins displacing demand, not so much...
 
 
 - [*MARL for leader-follower dynamics*](https://github.com/jaredwins99/marl-leader-follower): Custom-built environment and reinforcement learning agents cooperating on a foraging task. The idea was to assess whether, dependent on environmental and neuro-inspired features, the agents would specialize into different roles.
