@@ -1,6 +1,6 @@
 Hi, I’m Jared Winslow (@jaredwins99)
 
-I'm a data scientist within Stanford's Quantitative Sciences Unit. Before that, I studied stats at Columbia and math at IU (which included five years of tutoring anything and everything quantitative: intro courses to graduate seminars).
+I'm a data scientist within Stanford's Quantitative Sciences Unit. Before that, I studied stats at Columbia and math at IU which included five years of tutoring anything and everything quantitative: intro courses to graduate seminars.
 
 Selected projects I've worked on (more, including personal projects, pinned below):
 - [*Multilevel INGARCH for alt proteins*](https://github.com/jaredwins99/alt-protein-sales-effects): Fully modular Stan model for forecasting sales and estimating the effect of introducing alternative proteins in restaurants. Individual models were run on HPC clusters for seven days (do not try at home). *(Specs: partial pooling across restaurants, hierarchical ITS within & across restaurants, zero inflation, count-valued, overdispersion, autoregression, regularization, and more.)*
@@ -8,7 +8,7 @@ Selected projects I've worked on (more, including personal projects, pinned belo
   **RESULT**: USEFUL. Great as a model, but regarding alt proteins displacing demand, not so much...
 
 
-- [*MARL for leader-follower dynamics*](https://github.com/jaredwins99/marl-leader-follower): Custom-built environment and reinforcement learning agents cooperating on a foraging task. The idea was to assess whether, dependent on environmental and neuro-inspired features, the agents would specialize into different roles.
+- [*MARL for leader-follower dynamics*](https://github.com/jaredwins99/marl-leader-follower): Custom-built environment and reinforcement learning agents cooperating on a foraging task. The idea was to assess whether, dependent on environmental and neuro-inspired features, the agents would specialize into different roles. https://www.nature.com/articles/s41586-026-10900-1
 
   **RESULT**: SO-SO. Do the agents cooperate? Yes. Do they adopt leader-follower dynamics? Somewhat. To the extent that mice do? Not at all.
 
